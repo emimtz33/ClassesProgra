@@ -1,4 +1,4 @@
-### Simple and Small Java tutorials
+# Simple and Small Java tutorials
 
 This is a repository for java tutorials aimed at FIRST newcomers
 
@@ -14,7 +14,7 @@ This is the list
  - Java Math
  - Java Methods
 
-# Things to come (hopefully)
+### Things to come (hopefully)
 
 I wish to add:
 

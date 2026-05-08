@@ -13,20 +13,19 @@ This is the list
  - Basic Syntax
  - Java Math
  - Java Methods
+ - Conditinals
 
 ### Things to come (hopefully)
 
 I wish to add:
 
-- Conditionals
-- If else
-- More method information
 - Classes
 - Object Oriented Programming
 - (Maybe some MarkDown???)
 
 ## Index
 
-`BasicSyntax`
-`JavaMath`
-`JavaMethods`
+[`BasicSyntax`](src\BasicSyntax.java)
+[`JavaMath`](src\JavaMath.java)
+[`JavaMethods`](src\JavaMethods.java)
+[`Conditionals`](src\Conditionals.java)

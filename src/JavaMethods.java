@@ -133,12 +133,27 @@ public class JavaMethods {
     // checkCash(5); //System output : ("You don't have enough cash")
 
     
+    
+    //RETURN METHOD
 
-    //We still are missing lot of ground to cover like Method Overloading, Scoping and Java Recursion
-    //We will cover them in future commits
+    //The opposite of void is return
+    //We use the return keyword when we want our method to return us a value (it also finishes the method)
+    //Here we are going to use a
+
+    public static int returnNumber (int number) {
+        return(number + 1);
+    }
+
+    //This will return is our number plus 1
+    //So if we where to call the method and assign it the number 5 it will return 6
+
+
 
     //Here are the resources for simple Java Methods
     //https://www.w3schools.com/java/java_methods.asp
     //https://www.geeksforgeeks.org/java/methods-in-java/
+
+    //Here are some for Java return
+    //https://www.datacamp.com/doc/java/return
 
 }

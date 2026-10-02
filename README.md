@@ -25,7 +25,7 @@ I wish to add:
 
 ## Index
 
-[`BasicSyntax`](src\BasicSyntax.java)
-[`JavaMath`](src\JavaMath.java)
-[`JavaMethods`](src\JavaMethods.java)
-[`Conditionals`](src\Conditionals.java)
+[`BasicSyntax`](src/BasicSyntax.java)
+[`JavaMath`](src/JavaMath.java)
+[`JavaMethods`](src/JavaMethods.java)
+[`Conditionals`](src/Conditionals.java)
